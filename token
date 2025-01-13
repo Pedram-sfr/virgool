@@ -1,0 +1,10 @@
+"token": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTczNjA5Mjc4NSwiZXhwIjoxNzM4Njg0Nzg1fQ.rGrvY7vIcnw3udK9rrHFvOHxzo-SzKWF7bO1q-19FPc",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTczNjA5Mjc4NSwiZXhwIjoxNzY3NjUwMzg1fQ.jsftGhKRq2KDPJ9i5_6sCROIBtiVb_AhvsvwkPyRHPA"
+  }
+
+
+  "Emailtoken": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTczNjEwOTU3NCwiZXhwIjoxNzM4NzAxNTc0fQ.Hd8nnLuJpJYZDKyPe-p5JdDy5yAy-bPva3cNsYPFUTI",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTczNjEwOTU3NCwiZXhwIjoxNzY3NjY3MTc0fQ.fQ1mrx50sjRfdudr0v19qqiRgXYWMHpN_d8CH38DPCw"
+  }
